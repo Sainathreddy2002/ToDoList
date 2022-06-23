@@ -1,0 +1,33 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sainath",
+    "license": "ISC",
+    "dependencies": {
+        "alert": "^5.0.10",
+        "body-parser": "^1.19.0",
+        "cookie-parser": "^1.4.5",
+        "cors": "^2.8.5",
+        "date-and-time": "^2.0.1",
+        "dialog": "^0.3.1",
+        "dialogs": "^2.0.1",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "hbs": "^4.2.0",
+        "html": "^1.0.0",
+        "morgan": "^1.10.0",
+        "mysql2": "^2.3.3-rc.0",
+        "nodemailer": "^6.7.0",
+        "pug": "^3.0.2",
+        "req-flash": "0.0.3",
+        "sql": "^0.78.0",
+        "view": "^1.1.1",
+        "views": "^1.0.2"
+    }
+}
